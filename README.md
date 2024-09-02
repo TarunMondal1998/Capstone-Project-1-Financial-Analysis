@@ -22,10 +22,10 @@ The objective of this project is to predict the stock prices of the top 5 Tech c
 4. Scikit-learn
 5. joblib
 
-### Architecture
+### Architecture:
 ![Architecture Diagram](https://github.com/user-attachments/assets/0222c3cb-90f7-4d0f-ade0-42ab43405632)
 
-### Prediction
+### Prediction:
 #### Actual Prices for Meta:
 ![Actual Price_Meta](https://github.com/user-attachments/assets/e7c281ee-9eb1-4098-adc7-aebb36b120a9)
 (Source: Yahoo Finance)
@@ -35,7 +35,7 @@ The objective of this project is to predict the stock prices of the top 5 Tech c
 ![Prediction_29_08_Meta](https://github.com/user-attachments/assets/bb3e4a20-9ddb-444b-a466-5c793c29104f) 
 ![Prediction_30-08_Meta](https://github.com/user-attachments/assets/90512a7e-edef-498d-af43-88939b9445df) 
 
-#### Actual Prices for NVidia
+#### Actual Prices for NVidia:
 ![Actual Price_NVidia](https://github.com/user-attachments/assets/111c944d-d319-45b8-adfd-608ae88cbba3)
 (Source: Yahoo Finance)
 
