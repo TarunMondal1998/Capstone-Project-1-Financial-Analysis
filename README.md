@@ -5,6 +5,13 @@
 ### Objectives:
 The objective of this project is to predict the stock prices of the top 5 Tech companies across the world.
 
+### Stocks:
+1. Google
+2. Microsoft
+3. Amazon
+4. Apple
+5. Meta
+
 ### Tools used:
 1. Python for Data Extraction, Loading and Transformation
 2. SQL (MySQL) for data storing and fetching
